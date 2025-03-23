@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        int[] nums = {};
+        int[] expectedNums = {};
+
+        int k = Solution.removeDuplicates(nums);
     }
 }
